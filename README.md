@@ -1,4 +1,4 @@
-# android_basic_recycler_view
+# Android Basic RecyclerView
 
 
 <img src="https://1.bp.blogspot.com/-9-cfdiU5VLQ/XotYHKexvPI/AAAAAAAAAOc/xSo1vdFSAjAGCPgoDIAnCa6GxFijWm_TACPcBGAYYCw/s1600/13.png">
